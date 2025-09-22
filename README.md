@@ -6,17 +6,20 @@
 
 PS : I'm open to advice, feedback, and potential cooperation. 🗣️
 
+---
 
-## project 
+## Projects
 
-### number 1 : Sport application on theme of HunterXHunter*
-#### -> link : 
-#### -> if you want to dawnload it : (not yet)
-- Language of programmation : python (i have to use kivymd for graphic interface).
-- Editor : pycharm.
-- platform : just phone ( Android)
-- Limit of time : 2 month.
+### 1️⃣ Sport Application (Theme: Hunter x Hunter)
+#### -> Link: *(not yet)*
+#### -> If you want to download it: *(not yet)*
 
+- **Language of programming:** Python (I used KivyMD for the graphical interface)  
+- **Editor:** PyCharm  
+- **Platform:** Android only  
+- **Time limit:** 2 months  
 
-* it's an anime from japon 
+*Note: Hunter x Hunter is a Japanese anime.*
+
+---
 
