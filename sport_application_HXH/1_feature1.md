@@ -1,22 +1,40 @@
-# feature1.md 
+# Feature 1
 
 ---
 
-## The local inscription and connexion by the cmd : 
+## Local inscription and connection via CMD
 
-### 1° first, i have to do a systeme of connexion to use my application, i have do it with an Csv file. It's work only on loac and it's not sure but for a personnal  
-### is enough.
+### 1️⃣ First step: Create a simple login system
+To use my application, I needed a system of connection (login/registration).  
+I used a **CSV file** as a local database.  
+⚠️ It only works locally and is not secure, but for personal use it’s enough.
 
+---
 
-### 2° But avant to do it graphically i must show if it's work so i begin with a Cmd syteme 
-###    -> create a fichier and import the librari who we need (csv)
+### 2️⃣ Before the graphical interface
+Before implementing it graphically (with KivyMD), I tested the logic with a **Command Line (CMD) system**.
+
+Steps:
+- 📂 Create a Python file and import the necessary library (`csv`).
+- ⌨️ Add an input to know if the user wants to **register (1)** or **log in (2)**.
+- 🔄 Add conditions:  
+  - If user writes **1 → Register**  
+  - If user writes **2 → Log in**
+- 📝 Add input fields to collect information (`name`, `password`) and store them as variables.
+- 📤 Use `print()` to display outputs for the user.
+
+---
+
+### 3️⃣ Example screenshots
+
+📌 **Import CSV library and setup:**
 
 <img width="1247" height="65" alt="image" src="https://github.com/user-attachments/assets/088b1903-8daf-4ea8-8325-72578d2aca37" />
 
-###    -> Add an input for on sache if he want to inscrire of connect
-###    -> Add a condition : if he write 1 => register and 2 => log in
+📌 **Register vs Login system (with conditions):**
 
 <img width="1248" height="477" alt="image" src="https://github.com/user-attachments/assets/00c9716d-b9b7-4a5b-bc82-12f09ce832dd" />
 
-###    -> and Add an output (print) and an input for récolter information with a variable (name and password)
- 
+---
+
+✅ Next step: I will transform this CMD system into a **graphical interface** using **KivyMD**
