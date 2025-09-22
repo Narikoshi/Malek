@@ -12,8 +12,10 @@
 ###    -> create a fichier and import the librari who we need (csv)
 
 <img width="1247" height="65" alt="image" src="https://github.com/user-attachments/assets/088b1903-8daf-4ea8-8325-72578d2aca37" />
+
 ###    -> Add an input for on sache if he want to inscrire of connect
 ###    -> Add a condition : if he write 1 => register and 2 => log in
+
 <img width="1248" height="477" alt="image" src="https://github.com/user-attachments/assets/00c9716d-b9b7-4a5b-bc82-12f09ce832dd" />
 
 ###    -> and Add an output (print) and an input for récolter information with a variable (name and password)
