@@ -9,5 +9,5 @@ PS : I'm open to advice, feedback, and potential cooperation. 🗣️
 
 ## project 
 
-<### number 1 : Sport application 
+### number 1 : Sport application 
 <u>Texte souligné</u>
