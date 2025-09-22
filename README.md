@@ -11,7 +11,7 @@ PS : I'm open to advice, feedback, and potential cooperation. 🗣️
 ## Projects
 
 ### 1️⃣ Sport Application (Theme: Hunter x Hunter)
-#### -> Link: *(not yet)*
+#### -> Link: *(sport_application_HXH/Introduction.md)*
 #### -> If you want to download it: *(not yet)*
 
 - **Language of programming:** Python (I used KivyMD for the graphical interface)  
