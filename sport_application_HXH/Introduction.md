@@ -1,16 +1,28 @@
-# introduction
+# Introduction
 
 ---
 
-### on this page wille be the link for the explanation about the code and the process 
+### On this page you will find links to explanations about the code 🧭
 
 ---
 
+### 0️⃣ More than just code
+- []()
 
-### 0) The process : 
+### 1️⃣ Feature 1
+- [Details & Explanation]()
 
-### 1) 
-### 2)
-### 3)
-### 4)
-### 5)
+
+### 2️⃣ Feature 2
+- [Details & Explanation]()
+
+
+### 3️⃣ Feature 3
+- [Details & Explanation]()
+
+### 4️⃣ Feature 4
+-[Details & Explanation]()
+
+
+### 5️⃣ Feature 5
+- [Details & Explanation]()
