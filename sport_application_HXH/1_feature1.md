@@ -50,11 +50,11 @@ Steps:
 
 <img width="1248" height="477" alt="image" src="https://github.com/user-attachments/assets/00c9716d-b9b7-4a5b-bc82-12f09ce832dd" />
 
-📌 **csv file**
+📌 **csv file:**
 
 <img width="1253" height="97" alt="image" src="https://github.com/user-attachments/assets/b53d16be-b5d0-48c7-9c2f-0ad9c437df1f" />
 
-📌 **the Register function**
+📌 **the Register function:**
 
 <img width="1243" height="493" alt="image" src="https://github.com/user-attachments/assets/51e77313-b280-4916-ae17-c1d682e801d1" />
 
