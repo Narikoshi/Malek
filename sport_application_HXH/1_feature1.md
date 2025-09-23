@@ -38,3 +38,4 @@ Steps:
 ---
 
 ✅ Next step: I will transform this CMD system into a **graphical interface** using **KivyMD**
+📘 What I learned: How to manage user input, conditions, and a CSV-based database.
