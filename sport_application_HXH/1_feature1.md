@@ -31,6 +31,10 @@ Steps:
     - If it exists → print a message like: "The username 'X' already exists."
     - Otherwise → add the new user and print a success message.
 - 💾 Use the CSV library to write data.
+- ⚙️ Create a `login` function
+- 📝 Create variables for username and password (same as register)
+- 🔍 Retrieve variables and check against CSV
+- ✅ If match → success message, else → Error 404 and return
 
 
 
