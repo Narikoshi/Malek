@@ -22,6 +22,19 @@ Steps:
   - If user writes **2 → Log in**
 - 📝 Add input fields to collect information (`name`, `password`) and store them as variables.
 - 📤 Use `print()` to display outputs for the user.
+- ⚙️ Create a function named register
+  - Prompt the user to enter their `username` and `password`.
+  - Store these values in variables named `information` for use in the registration or login process:
+- 💾 Use the CSV library to write data
+- 🔍 Check if the username already exists
+  - Before adding a new user, verify that the username is not already in the CSV.
+    - If it exists → print a message like: "The username 'X' already exists."
+    - Otherwise → add the new user and print a success message.
+
+
+
+
+
 
 ---
 
