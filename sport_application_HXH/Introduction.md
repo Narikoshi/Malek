@@ -10,7 +10,7 @@
 - []()
 
 ### 1️⃣ Feature 1
-- [Details & Explanation](1_feature1.md)
+- [Feature 1: Sport App CMD](1_feature1.md)
 
 
 ### 2️⃣ Feature 2
