@@ -34,3 +34,5 @@ PS : I'm open to advice, feedback, and potential cooperation. 🗣️
 
 *Note: Hunter x Hunter is a Japanese anime.*
 
+---
+
