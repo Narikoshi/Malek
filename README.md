@@ -23,3 +23,14 @@ PS : I'm open to advice, feedback, and potential cooperation. 🗣️
 
 ---
 
+### 2️⃣ Microscop with application (Homemade)
+#### -> Link: [microscope_with_app](/)
+#### -> If you want to download the code: *(not yet)*
+
+- **Language of programming:** Python (I used KivyMD for the graphical interface)  
+- **Editor:** PyCharm  
+- **Platform:** computer only (because you need specifical installation)
+- **Time limit:** 2 months  
+
+*Note: Hunter x Hunter is a Japanese anime.*
+
