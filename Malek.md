@@ -3,7 +3,6 @@
 **Current Focus:** Deep dive into Linear Algebra through the lens of Sheldon Axler (*Linear Algebra Done Right*) and Alain Piller.
 | Nom du Projet | Aperçu (Image) |
 | :--- | :--- |
-
 | **vector & span**  | <img width="300"  src="https://github.com/user-attachments/assets/d2ea6bb8-c8d7-447c-9611-b88603ea54cd">|
 | **cross Product**  | <img width="300" src="https://github.com/user-attachments/assets/d2ea6bb8-c8d7-447c-9611-b88603ea54cd">|
 | **Matrice (AB =/ BA)** | <img width="300" src="https://github.com/user-attachments/assets/81a565e6-c94d-4a11-bc9e-46b80f82ef89" >|
