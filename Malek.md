@@ -1,7 +1,7 @@
 # Malek 🎓
 ### 10th Grade Student | Mathematics & Physics Enthusiast
 **Current Focus:** Deep dive into Linear Algebra through the lens of Sheldon Axler (*Linear Algebra Done Right*) and Alain Piller.
-| Nom du Projet | Aperçu (Image) |
+| name | Image |
 | :--- | :--- |
 | **vector & span**  | <img width="300" src="https://github.com/user-attachments/assets/df531625-dd43-4b44-b708-fea1369bef2c">|
 | **Matrice (AB ≠ BA)** | <img width="300" src="https://github.com/user-attachments/assets/81a565e6-c94d-4a11-bc9e-46b80f82ef89">|
